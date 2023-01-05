@@ -1,9 +1,17 @@
 # your_exercise
-* * *
-## yolov5를 이용한 실시간 운동 자세 판별과 정확도 제공 프로그램  '너의 운동은 ...'  
+### yolov5를 이용한 실시간 운동 자세 판별과 정확도 제공 프로그램  '너의 운동은 ...'        
+***   
+  
+  
 
-#
+  
 
+
+https://user-images.githubusercontent.com/90812508/210727636-b8af75be-2b56-4c64-a88d-9a178894033c.mp4  
+  
+
+
+* Flask를 활용한 서비스 구현
 ![your_exercise_main_page](https://user-images.githubusercontent.com/90812508/189012708-80455a9c-2a52-4837-b015-0e1546bcbd9a.jpg)
 #
 
