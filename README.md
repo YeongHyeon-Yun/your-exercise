@@ -1,5 +1,5 @@
-# your_exercise
-yolov5를 이용한 실시간 운동 자세 판별과 정확도 제공 프로그램  '너의 운동은 ...'  
+> # your_exercise
+## yolov5를 이용한 실시간 운동 자세 판별과 정확도 제공 프로그램  '너의 운동은 ...'  
 #
 
 
@@ -11,6 +11,6 @@ yolov5를 이용한 실시간 운동 자세 판별과 정확도 제공 프로그
 
 ![image](https://user-images.githubusercontent.com/90812508/210683108-2b28cade-be83-4851-a771-d81ce71d8ae3.png)
 # 
-사용자의 가장 최신의 정확한 자세를 카테고리별로 확인할 수 있는 My page
+* 사용자의 가장 최신의 정확한 자세를 카테고리별로 확인할 수 있는 My page
 
 ![image](https://user-images.githubusercontent.com/90812508/210683161-19e6f37a-7940-40ac-8ec7-6a8cd7563b9c.png)
